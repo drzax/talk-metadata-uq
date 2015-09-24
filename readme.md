@@ -1,5 +1,10 @@
 # A meta (meta)data story
-Resources for [a talk](https://slides.com/drzax/a-meta-metadata-story/) to UQ communications students on telecommunications data-retention.
+[A talk](https://slides.com/drzax/a-meta-metadata-story/) given to UQ communications students on telecommunications data-retention.
+
+Based around a series of stories on telecommunications data retention for the ABC.
+- [How your phone tracks your every move](http://www.abc.net.au/news/2015-08-16/metadata-retention-privacy-phone-will-ockenden/6694152)
+- [What reporter Will Ockenden's metadata reveals about his life](http://www.abc.net.au/news/2015-08-24/metadata-what-you-found-will-ockenden/6703626)
+- [Making sense of metadata](http://abcnewsgathering.tumblr.com/post/128145007186/making-sense-of-metadata)
 
 ## Image credits
 - [Inception](https://www.flickr.com/photos/pagarneau/5057713273) by [Pierre-Alexandre Garneau](https://www.flickr.com/photos/pagarneau/) (CC BY-NC 2.0)
